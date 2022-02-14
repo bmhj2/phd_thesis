@@ -1,0 +1,92 @@
+---
+identifier-prefix: 'D1.'
+---
+
+## Risk assessment methodologies {.appendix}
+
+[Chapter 6](../6_risk-and-self-governance.qmd) describes the sample in terms of their assessed risk, differentiating among assessments made using varied methodologies. This section sets out key contextual information about these. All page references are to HMPPS’s Public Protection Manual [-@nationaloffendermanagementservicePSI1820162016a] unless otherwise indicated.
+
+The risk assessment methodologies used in the overall Offender Assessment System (OASys), which are described and noted in [Chapter 6](../6_risk-and-self-governance.qmd), fall into two main groups: those using actuarial methodologies, which produce a numerical prediction, and those using structured professional judgement, which produce a qualitative assessment of the level of risk involved. There are differences within these groups, which are set out more thoroughly in @tbl-apx4.
+
+The wider OASys contains a larger range of assessments, and those described in @tbl-apx4 are not comprehensive: only those methodologies covered by the documents I reviewed, and which are reported on in [Chapter 6](../6_risk-and-self-governance.qmd), are covered. Risk assessments for sexual violence, though relevant for some of the men that I interviewed, and though included in the overall OASys, were not included, nor summarised in the documents made available to me. It was only noted whether participants had such an assessment.
+
+::: {#tbl-apx4 .column-screen-inset}
+
++-----------------+-----------------------+-----------------------------------------------------------------------------------+
+| Methodology     | Assessment            | Further details                                                                   |
++:================+:======================+:==================================================================================+
+| Actuarial[^D1.1]| OGRS3 (Offender Group | * Based only on static risk factors                                               |
+|                 | Reconviction          | * Estimates separate numerical probabilities of reconviction within 12 and 24     |
+|                 | Score, version 3)     |     months                                                                        |
+|                 |                       | * ‘Low’, ‘medium’ and ‘high’ bandings subdivide population scores                 |
+|                 +-----------------------+-----------------------------------------------------------------------------------+
+|                 | OGP (OASys General    | * Combines static factors from OGRS3 with dynamic factors relating to             |
+|                 | reoffending           |     individuals under assessment                                                  |
+|                 | Predictor)            | * Estimates separate numerical probabilities of reconviction for non-violent      |
+|                 |                       |     offences within 12 and 24 months                                              |
+|                 |                       | * ‘Low’, ‘medium’ and ‘high’ bandings subdivide population scores                 |
+|                 +-----------------------+-----------------------------------------------------------------------------------+
+|                 | OVP (OASys            | * Combines static factors from OGRS3 with dynamic factors relating to             |
+|                 | Violence              |     individuals under assessment                                                  |
+|                 | Predictor)            | * Estimates separate numerical probabilities of reconviction for violent (but     |
+|                 |                       |     not sexual) offences within 12 and 24 months                                  |
+|                 |                       | * ‘Low’, ‘medium’ and ‘high’ bandings subdivide population scores                 |
++-----------------+-----------------------+-----------------------------------------------------------------------------------+
+| Structured      | RoSH (Risk of         | * Estimates the risk that subject will seriously harm him/herself or others       |
+| Professional    | Serious Harm)         | * The risk must be “life- threatening and/or traumatic” such that “recovery,      |
+| Judgement       |                       |     whether physical or psychological, can be expected to be difficult or         |
+|                 |                       |     impossible” [@nationaloffendermanagementservicePSI1820162016a, p. 1]          |
+|                 |                       | * Separate scores allocated for harm to various parties:                          |
+|                 |                       |     * In custody:                                                                 |
+|                 |                       |         * Self[^D1.4]                                                             |
+|                 |                       |         * Children[^D1.5]                                                         |
+|                 |                       |         * Known adults[^D1.6]                                                     |
+|                 |                       |         * The public[^D1.7]                                                       |
+|                 |                       |         * Staff[^D1.8]                                                            |
+|                 |                       |         * Prisoners                                                               |
+|                 |                       |     * In the community:                                                           |
+|                 |                       |         * Self[^D1.9]                                                             |
+|                 |                       |         * Children[^D1.10]                                                        |
+|                 |                       |         * Known adults[^D1.11]                                                    |
+|                 |                       |         * The public[^D1.12]                                                      |
+|                 |                       |         * Staff[^D1.13]                                                           |
+|                 |                       | * Risk levels allocated by using actuarial scores as a referent and starting      |
+|                 |                       |     point, with the assessor then reviewing files and documents and judging the   |
+|                 |                       |     impact of evidence about dynamic risk factors found therein.                  |
+|                 |                       | * Risk bandings to be interpreted as follows [all p. 2]:                          |
+|                 |                       |     * **Low**: “current evidence does not indicate a likelihood of causing        |
+|                 |                       |         serious harm”                                                             |
+|                 |                       |     * **Medium**: “there are identifiable indicators of serious harm” which is    |
+|                 |                       |         “unlikely [without] a change in circumstances”                            |
+|                 |                       |     * **High**: “there are identifiable indicators of serious harm, the           |
+|                 |                       |         potential event could happen at any time and the impact would be serious” |
+|                 |                       |     * **Very high**: “there is an imminent risk of serious harm. The potential    |
+|                 |                       |         event is more likely than not to happen as soon as the opportunity arises |
+|                 |                       |         and the impact would be serious”                                          |
++-----------------+-----------------------+-----------------------------------------------------------------------------------+
+
+Overview of risk assessment methodologies summarised in RC1, EBM, and ROTL risk assessment documents reviewed for this research
+
+:::
+
+[^D1.1]: See @howardHazardsDifferentTypes2011 for further details of risk bandings.
+
+[^D1.4]: Not recorded in documents I reviewed and not represented in the research.
+
+[^D1.5]: Either specific children, or children in general (p. 2).
+
+[^D1.6]: Specific persons with an existing connection to the subject of the assessment (e.g. victims, former partners) (p. 2).
+
+[^D1.7]: To be interpreted “either generally or a specific group such as the elderly, vulnerable adults […], women or an ethnic minority group” (p. 2).
+
+[^D1.8]: Any person working with the subject in a professional capacity (p. 2).
+
+[^D1.9]: Not recorded in documents I reviewed and not represented in the research.
+
+[^D1.10]: Either specific children, or children in general (p. 2).
+
+[^D1.11]: Specific persons with an existing connection to the subject of the assessment (e.g. victims, former partners) (p. 2).
+
+[^D1.12]: That is, the public “either generally or a specific group such as the elderly, vulnerable adults […], women or an ethnic minority group” (p. 2). Unlike the ‘known adult’ assessment, the ‘public’ assessment represents the judgement that in *any circumstances the assessor can imagine*, the prisoner might in future harm *either* a person in a specific category, or simply *any* person. In ‘known adult’ assessments, the assessor must fit the assessment to a defined set of actual relationships. They can, in principle, inquire into the nature of these relationships, and hence are constrained by known facts. In the ‘public’ assessment, they are constrained only by what can plausibly be imagined.
+
+[^D1.13]: Any person working with the subject in a professional capacity (p. 2).

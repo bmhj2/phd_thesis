@@ -1,0 +1,110 @@
+## Participant demography sheet {#sec-apx-b-demography-sheet .appendix}
+
+![](logo.png)
+
+**Project title:** Ethical self-governance among men serving life sentences for murder
+
+**Researcher:** Ben Jarman
+
+### About you and your sentence {.unnumbered}
+
++-----------------------------+-------------------+
+| **Name and NOMS number**    |                   |
++-----------------------------+-------------------+
+| **Participant ID            |                   |
+| (to be completed by         |                   |
+| the researcher)**           |                   |
++-----------------------------+-------------------+
+| **What is your gender?**    |                   |
++-----------------------------+-------------------+
+| **What is your date         |                   |
+| of birth?**                 |                   |
++-----------------------------+-------------------+
+| **What date were you        |                   |
+| sentenced?**                |                   |
++-----------------------------+-------------------+
+| **When does your tariff     |                   |
+| expire?**                   |                   |
++-----------------------------+-------------------+
+| **Is this your first        | - [ ] Yes         |
+| prison sentence?**          | - [ ] No          |
+|                             +-------------------+
+|                             | - [ ] 1           |
+| (if 'No', please tick how   | - [ ] 2-5         |
+| many prison sentences       | - [ ] 6-9         |
+| you have had before)        | - [ ] 10 or more  |
++-----------------------------+-------------------+
+| **How old were you when     | \_\_\_\_ years old|
+| you were first              |                   |
+| convicted of any crime?**   |                   |
++-----------------------------+-------------------+
+| **When did you come to      |                   |
+| to this particular prison?**|                   |
++-----------------------------+-------------------+
+| **I consider myself         | - [ ] Yes         |
+| guilty of the offence of    | - [ ] No          |
+| which I was convicted**     |                   |
++-----------------------------+-------------------+
+
+### About you and your life before prison {.unnumbered}
+
++-------------+---------------------+----------------------------------------+
+|**Ethnicity**| Asian/Asian British | - [ ] Indian                           |
+|             |                     | - [ ] Pakistani                        |
+|             |                     | - [ ] Bangladeshi                      |
+|             |                     | - [ ] Chinese                          |
+|             |                     | - [ ] Other                            |
+|             +---------------------+----------------------------------------+
+|             | Black/Black British | - [ ] Caribbean                        |
+|             |                     | - [ ] African                          |
+|             |                     | - [ ] Other                            |
+|             +---------------------+----------------------------------------+
+|             | Mixed               | - [ ] White and Black Caribbean        |
+|             |                     | - [ ] White and Black African          |
+|             |                     | - [ ] White and Asian                  |
+|             |                     | - [ ] Other                            |
+|             +---------------------+----------------------------------------+
+|             | Other               | - [ ] Arab                             |
+|             |                     | - [ ] Other                            |
+|             +---------------------+----------------------------------------+
+|             | White               | - [ ] British                          |
+|             |                     | - [ ] Irish                            |
+|             |                     | - [ ] Gypsy or Irish Traveller         |
+|             |                     | - [ ] Other                            |
+|             +---------------------+----------------------------------------+
+|             | Not stated          | - [ ] I prefer not to say              |
++-------------+---------------------+----------------------------------------+
+| **Religion**                      | - [ ] No religion                      |
+|                                   | - [ ] Christian                        |
+|                                   | - [ ] Buddhist                         |
+|                                   | - [ ] Hindu                            |
+|                                   | - [ ] Jewish                           |
+|                                   | - [ ] Muslim                           |
+|                                   | - [ ] Other                            |
++-----------------------------------+----------------------------------------+
+| **What is the highest level of    | - [ ] No schooling completed           |
+| education you completed           | - [ ] Primary school                   |
+| before entering prison?**         | - [ ] Secondary school, no certificate |
+|                                   | - [ ] GCSEs                            |
+|                                   | - [ ] A levels                         |
+|                                   | - [ ] Diploma                          |
+|                                   | - [ ] Trade/technical/vocational cert. |
+|                                   | - [ ] Bachelor's degree                |
+|                                   | - [ ] Master's degree                  |
+|                                   | - [ ] Professional degree              |
+|                                   | - [ ] Doctoral degree                  |
++-----------------------------------+----------------------------------------+
+| **What is your marital            | - [ ] Single, never married            |
+| status?**                         | - [ ] Married or cohabiting            |
+|                                   | - [ ] Widowed                          |
+|                                   | - [ ] Divorced                         |
+|                                   | - [ ] Separated                        |
++-----------------------------------+----------------------------------------+
+| **Do you have children?**         | - [ ] Yes                              |
+|                                   | - [ ] No                               |
+|                                   +----------------------------------------+
+|                                   | - [ ] Daily care                       |
+| (if 'yes', please indicate        | - [ ] Shared custody                   |
+| what kind of custody you          | - [ ] No custody                       |
+| had of them before prison)        | - [ ] Adult children                   |
++-----------------------------------+----------------------------------------+

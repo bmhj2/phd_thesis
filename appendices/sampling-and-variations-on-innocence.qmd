@@ -1,0 +1,39 @@
+---
+identifier-prefix: 'C1.'
+---
+
+## Variations on 'innocence' in sampling {.appendix #sec-apx-c-innocence}
+
+[Chapter 3](../3_methodology.qmd) described how one of the original sampling criteria was dropped, because it proved difficult to identify prisoners who were maintaining innocence. This Appendix describes how that became clear, and sets out some variations in how the term 'innocence' was understood by me and a prison psychologist working at Swaleside.
+
+While I was in the early stages of constructing the sample, and still intending to try and apply the original eligibility criteria described in Chapter [-@sec-3-sampling-adaptations], a psychologist at Swaleside kindly offered to help me gauge how feasible it would be to use all six criteria, by generating two random dummy samples of twenty-six men from the 191 there who met criteria 1, 5 and 6, and then reviewing the OASys assessments for these men to attempt a classification. This felt unduly complicated, but it would have been churlish to decline the offer so early in the fieldwork. In the event, the exercise was unexpectedly useful. It clarified that trying to exclude potential participants who were ‘maintaining innocence’ or ‘not taking responsibility’ was futile, since these were highly nuanced issues, in ways the risk assessment documents were largely indifferent to.
+
+This became clear through differences of interpretation between me and the psychologist, as we worked through the dummy samples. @tbl-apx1 presents a rough-and-ready inductive typology of what (to me) were different attitudes to the index offence, all of which she saw as communicating a claim of ‘innocence’. By her assessment, twelve and seventeen members respectively of each dummy sample of twenty-six fell under this description. By mine, only three or four people in each group fitted the ‘Denial’ description in @tbl-apx1, the only stance to which I would have intuitively applied the label. Moreover, in the OASys records, prisoners’ reported views often differed markedly from the factual evidence the records described.[^C1.1]
+
+::: {#tbl-apx1}
+
++------------------+---------------------------------------------------------------------------------------------------------------------------------------------------+
+| Description      | Typical narratives about the offence                                                                                                              |
++:=================+:==================================================================================================================================================+
+| Denial           | * I wasn’t there                                                                                                                                  |
+|                  | * It was a case of mistaken identity                                                                                                              |
+|                  | * I won’t talk about it with anyone                                                                                                               |
+|                  | * The police framed me                                                                                                                            |
+|                  | * The victim isn’t actually dead                                                                                                                  |
++------------------+---------------------------------------------------------------------------------------------------------------------------------------------------+
+| Deflection       | * I was there and I was involved, but my co-defendant(s)/others did it                                                                            |
+|                  | * I was there and there was a fight but they were alive when I left them and I don’t know what happened                                           |
++------------------+---------------------------------------------------------------------------------------------------------------------------------------------------+
+| Reinterpretation | * I did it, but it wasn’t murder                                                                                                                  |
+|                  | * It wasn’t as bad as they said                                                                                                                   |
++------------------+---------------------------------------------------------------------------------------------------------------------------------------------------+
+| Dissociation     | * I was so intoxicated (or so psychiatrically unwell) that I might have done it, but I can’t remember it or don’t recognise these as my actions   |
++------------------+---------------------------------------------------------------------------------------------------------------------------------------------------+
+
+Typology of styles of 'innocence' evident in the dummy sampling exercise
+
+:::
+
+In short, it became clear that a strict approach to the original sample eligibility criteria was unworkable. First, there was no way of confidently estimating from prison records whether someone ‘maintained innocence’; partly because, second, it seemed possible that some maintained this stance habitually, for the benefit of the prison, while possibly making different claims to other audiences. Third, neither ‘innocence’ nor ‘responsibility’ were obviously meaningful distinctions by which to divide the sample. To my mind, of the attitudes described in @tbl-apx1, ‘deflection’, ‘reinterpretation’ and ‘dissociation’ all conveyed meaningful information about a response to censure, and only 'denial' suggested a flat denial of *any* ‘moral responsibility’, still less a claim that the speaker was ‘innocent’.
+
+[^C1.1]: For example, one dummy sample member who maintained a strong claim of innocence admitted being at the scene, chasing and threatening the victim with a knife (the notes said this had been caught on CCTV), but claimed that he had broken off the pursuit; someone else must have stabbed the victim. Another in the same category maintained that the victim wasn’t dead, though couldn’t explain (so said the notes) how it came to be that a body had been found and identified by family members.

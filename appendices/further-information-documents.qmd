@@ -1,0 +1,13 @@
+---
+keywords: ""
+---
+
+# Further information on documents and risk assessments used in the research {.appendix #sec-apx-d}
+
+This Appendix provides further information on the documentary evidence reviewed in this research, with details from policy documents and other literature on the nature of the documents, their typical contents, and the purposes for which they are produced.
+
+{{< include risk-scores-methodologies.qmd >}}
+
+{{< pagebreak >}}
+
+{{< include summary-documents-reviewed.md >}}

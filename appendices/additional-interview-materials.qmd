@@ -1,0 +1,29 @@
+---
+keywords: ""
+---
+
+# Interview materials {.appendix #sec-apx-b}
+
+Various materials were used to recruit participants and record structured data both for the research, and recording matters like consent, while the interviews were arranged and conducted. Copies of all these materials are included below.
+
+{{< include participant-info-sheet.qmd >}}
+
+{{< pagebreak >}}
+
+{{< include interview-appointment-memo.qmd >}}
+
+{{< pagebreak >}}
+
+{{< include consent-form.qmd >}}
+
+{{< pagebreak >}}
+
+{{< include participant-demography-sheet.qmd >}}
+
+{{< pagebreak >}}
+
+{{< include prison-timelines.qmd >}}
+
+{{< pagebreak >}}
+
+{{< include interview-schedule.qmd >}}

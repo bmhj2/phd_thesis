@@ -1,0 +1,18 @@
+---
+number-sections: false
+keywords: ""
+---
+
+<div style="text-align: center;">
+
+## Epigraph {.unnumbered .unlisted}
+
+  > In true community we will not choose our companions, for our choices are so often limited by self-serving motives. Instead, our companions will be given to us by grace. Often they will be persons who will upset our settled view of self and world. In fact, we might define true community as that place where the person you least want to live with always lives.
+
+  <p style="text-align: right;">Parker J. Palmer, <em>A place called community</em> [-@palmerPlaceCalledCommunity1977, 20]</p>
+
+  > [I]f we were, in the words of Bryan Stevenson, to allow ourselves to get proximate, we might learn, in a much deeper way, about the lives of others.
+
+  <p style="text-align: right;">Reuben J. Miller, <em>Halfway home: race, punishment, and the afterlife of mass incarceration</em> [-@millerHalfwayHomeRace2021, p. loc. 89.0%]</p>
+
+</div>

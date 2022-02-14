@@ -1,0 +1,17 @@
+---
+keywords: ""
+---
+
+# Further information on the sample {.appendix #sec-apx-c}
+
+This Appendix provides further information on the process of sampling, and on the eventual sample itself.
+
+{{< include sampling-and-variations-on-innocence.qmd >}}
+
+{{< pagebreak >}}
+
+{{< include descriptive-stats-on-overall-sample.qmd >}}
+
+<!-- {{< pagebreak >}}
+
+{{< include demographic-overview-sample.qmd >}} -->

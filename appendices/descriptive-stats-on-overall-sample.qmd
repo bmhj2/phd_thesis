@@ -1,0 +1,68 @@
+## The sample's representativeness of the eligible populations at both prisons {.appendix}
+
+The sample was, broadly, representative of the populations of the two fieldwork prisons. This can be seen in @tbl-apx2, which summarises how the final sample and the eligible populations at the two sites compared on their sentence characteristics. The point to note here is that the samples at both prisons came close to the populations for the age and sentence characteristics shown.
+
+::: {#tbl-apx2 .column-screen-inset}
+
++--------------+---------------------------------+--------------+--------------+----------------+--------------+----------------+
+|              | Statistic                       | Age when     | Age when     | Tariff         | Years        | Years served ÷ |
+|              |                                 | sampled      | sentenced    | (years)        | served       | tariff (as %)  |
++:============:+:==================:+:==========:+:============:+:============:+:==============:+:============:+:==============:+
+|              |                    | Sample     | 22           | 16           | 12             | 2            | 7%             |
+|              | **Minimum**        |            |              |              |                |              |                |
+|              |                    | Population | 21           | 16           | 7              | 2            | 6%             |
+|              +--------------------+------------+--------------+--------------+----------------+--------------+----------------+
+|              |                    | Sample     | 43.8  (12.9) | 33.4  (12.8) | 20.0  (5.2)    | 9.8  (6.1)   | 55%  (41%)     |
+|**Swaleside** | **Average** (s.d.) |            |              |              |                |              |                |
+|              |                    | Population | 40.2  (12.2) | 31.9  (11.6) | 20.0  (5.3)    | 7.8  (4.8)   | 43%  (33%)     |
+|              +--------------------+------------+--------------+--------------+----------------+--------------+----------------+
+|              |                    | Sample     | 77           | 63           | 30             | 27           | 180%           |
+|              | **Maximum**        |            |              |              |                |              |                |
+|              |                    | Population | 77           | 63           | 35             | 27           | 180%           |
++--------------+--------------------+------------+--------------+--------------+----------------+--------------+----------------+
+|              |                    | Sample     | 31           | 17           | 8              | 7            | 66%            |
+|              | **Minimum**        |            |              |              |                |              |                |
+|              |                    | Population | 31           | 17           | 8              | 7            | 67%            |
+|              +--------------------+------------+--------------+--------------+----------------+--------------+----------------+
+|              |                    | Sample     | 50.7  (14.1) | 32.7  (14.7) | 14.3  (3.2)    | 17.5  (8.2)  | 125%  (59%)    |
+| **Leyhill**  | **Average** (s.d.) |            |              |              |                |              |                |
+|              |                    | Population | 54.7  (12.4) | 32.6  (12.9) | 14.5  (3.2)    | 21.7  (9.0)  | 153%  (72%)    |
+|              +--------------------+------------+--------------+--------------+----------------+--------------+----------------+
+|              |                    | Sample     | 82           | 74           | 20             | 35           | 250%           |
+|              | **Maximum**        |            |              |              |                |              |                |
+|              |                    | Population | 91           | 82           | 21             | 44           | 420%           |
++--------------+--------------------+------------+--------------+--------------+----------------+--------------+----------------+
+
+Sentence characteristics of the sample and population at both sites. Source: P-NOMIS data supplied by each prison
+
+:::
+
+@tbl-apx3, meanwhile, compares the per-prison samples and the populations of the two prisons in terms of ethnicity and age. The point to note here is that the sample at Swaleside was broadly representative of the population in terms of its ethnic composition. At Leyhill, this was not true because of the deliberate oversampling of non-white prisoners described in [Chapter 3](../3_methodology.qmd).
+
+::: {#tbl-apx3}
+
++------------------------+------------------------------+-----------------------------+
+| Ethnicity              | Swaleside                    | Leyhill                     |
+|                        +-------------+----------------+-------------+---------------+
+|                        | sample      | population     | sample      | population    |
++:=======================+:===========:+:==============:+:===========:+:=============:+
+| Asian or Asian British | 4 (13%)     | 17 (9%)        | —           | —             |
++------------------------+-------------+----------------+-------------+---------------+
+| Black or Black British | 9 (29%)     | 64 (33%)       | 3 (17%)     | 5 (8%)        |
++------------------------+-------------+----------------+-------------+---------------+
+| Mixed                  | 1 (3%)      | 6 (3%)         | —           | —             |
++------------------------+-------------+----------------+-------------+---------------+
+| Chinese or other       | —           | 1 (1%)         | —           | —             |
++------------------------+-------------+----------------+-------------+---------------+
+| White                  | 17 (55%)    | 102 (53%)      | 14 (78%)    | 60 (91%)      |
++------------------------+-------------+----------------+-------------+---------------+
+| Unknown or not stated  |  —          | 2 (1%)         | 1 (6%)      | 1 (2%)        |
++========================+=============+================+=============+===============+
+| All                    |30 (100%)    | 191 (100%)     |18 (100%)    | 66 (100%)     |
++========================+=============+================+=============+===============+
+
+Descriptive statistics showing ethnicity of the samples and eligible populations at both sites. Source: P-NOMIS data supplied by each prison.
+
+:::
+
+Both tables show that the sample was broadly representative of those eligible to participate at each site.
