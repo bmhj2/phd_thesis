@@ -5,7 +5,7 @@ project:
 book:
   title: "Moral messages, ethical responses: punishment and self-governance among men serving life sentences for murder"
 
-  abstract: >
+  abstract: |
     This PhD uses theoretical and conceptual resources from the anthropology of morality and ethics to explore moral communication in the contemporary life sentence, as seen through the ethical lives of men serving life sentences for murder.
     
     Empirically, it describes three things. First, moral communication *about murder*: what a conviction for this crime and the experience of imprisonment for life ‘said’ to prisoners about who they were and whom they ought to become. Second, moral communication *within a life course*: how people with different pre-prison experiences reacted to the rupture in identity imposed by the sanction. Third, moral communication *through the language of risk*: an unclear (though dominant) medium which imposed demands some lifers found a comfortable ‘fit’, but others did not.
@@ -71,7 +71,7 @@ book:
     - appendices/further-information-sample.qmd
     - appendices/further-information-documents.qmd
   date-format: Do MMMM YYYY
-  date: "2025-06-18"
+  date: 2025-06-19
 
 bibliography: "assets/references.json"
 citation:
@@ -127,8 +127,8 @@ fig-cap-location: top
 tbl-cap-location: top
 
 format:
-  wordcount-html:
+  html:
     theme:
-      light: flatly
-      dark: darkly
+      light: [flatly, _light.scss]
+      dark: [darkly, _dark.scss]
     email-obfuscation: javascript

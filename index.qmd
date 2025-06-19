@@ -2,6 +2,6 @@
 number-sections: false
 ---
 
-##  Welcome {.unnumbered .unlisted}
+## Welcome {.unnumbered .unlisted}
 
 {{< include title-page.qmd >}}

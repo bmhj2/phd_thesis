@@ -15,7 +15,12 @@ keywords:
   - tightness
   - offender management
 thanks: Thanks are due to Sophie Ellis for conversations which, early in the thinking for this chapter, helped direct the ideas it contains.
-title: "Risk and self-governance: moral communication through offender management"
+title: "Risk and self-governance"
+subtitle: "Moral communication through offender management"
+filters:
+  # Run Quarto's default filters first
+  - quarto
+  - section-bibliographies
 ---
 
   > Increasingly, prisoners are no longer objects of punishment, but made instead into potential subjects of self-change, thus creating prisons characterized by what Crewe has called 'neo-paternalism'. The feeling of 'tightness' [is] connected to the perceived need to self-govern, take responsibility and show credible change and growth.
@@ -905,7 +910,10 @@ The sheer length of the life sentence is a significant feature of the analysis, 
 
 The authors of the epigrammatic quote at the start of this chapter contended, building on the 'tightness' framework, that prisoners are "no longer objects of punishment, but made instead into potential subjects of self-change" [@ugelvikPainsCrimmigrationImprisonment2018, p. 1028]. McNeill's characterisation of the supervision relationship adds a further insight. If becoming a "subject of self-change" yields no reward, then what remains? Certainly, the experience of being an 'object of punishment'; but not in the dominated sense characteristic of 1970s and 1980s imprisonment, which has been superseded. Instead, the 'objectification' in this case relates to being (mis)recognised as something 'bad' and on this basis held (and hurt) to suit others, *regardless of one's efforts to do good*. Most visibly among those who 'drifted', this caused some lifers in the sample to disengage entirely---to "retreat into fantasy and passivity" [@odonnellPrisonersSolitudeTime2014, 237; cf. @crewePrisonerSocietyPower2009, 191-200 on 'retreatists']---with the likely consequence that they would be unlikely to secure their release, and poorly prepared should it come.
 
-## References {.unnumbered}
+## References {.unnumbered .sectionbibliography}
+
+::: {.sectionrefs}
+:::
 
 [^6.1]: 'Knockback', an adverse decision.
 

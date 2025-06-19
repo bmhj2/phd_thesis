@@ -12,7 +12,12 @@ keywords:
   - parole
   - penology
   - england
-title: "Punishment and moral obligation: introducing core themes"
+title: "Punishment and moral obligation"
+subtitle: "Introducing core themes"
+filters:
+  # Run Quarto's default filters first
+  - quarto
+  - section-bibliographies
 ---
 
 In February 2020, Ian Simms, a life-sentenced prisoner at HMP Leyhill, was preparing for release. His conviction in 1988, for abducting and murdering Helen McCourt, was one of the first in the UK secured without the victim's body having been found. DNA fingerprinting, and Simms's lies about his whereabouts when Helen disappeared, had convinced the jury of his guilt. Simms maintained his innocence throughout [@macurMcCourtApplicationParole2020], and a parole panel decided he could be safely released [@calvert-smithSecretaryStateApplication2020].
@@ -90,7 +95,10 @@ Three empirical chapters follow, each with its own theme. Chapters [4](./4_becom
 
 Finally, the threads are drawn together in [Chapter 7](./7_conclusions.qmd). It revisits the questions raised by the Simms case, examines the limitations of the study, and considers what the research findings might mean for future academic research in this area, and public penological discourse more generally.
 
-## References {.unnumbered}
+## References {.unnumbered .sectionbibliography}
+
+::: {.sectionrefs}
+:::
 
 [^1.1]: Throughout this thesis, I refer to life-sentenced prisoners as 'lifers', for brevity, and because this is the term participants in this research most commonly used to identify themselves as a group. Simms did not participate in this research.
 

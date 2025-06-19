@@ -5,6 +5,10 @@ identifier-prefix: '7.'
 keywords: [penal theory, murder, public wrongs, private wrongs, retribution]
 #thanks: [Insert acknowledgements footnote after document title]
 title: Conclusions
+filters:
+  # Run Quarto's default filters first
+  - quarto
+  - section-bibliographies
 ---
 
 Jill Stauffer's book, *Ethical Loneliness* [-@staufferEthicalLonelinessInjustice2015, chap. 5], describes what happens when institutions fail to listen well to individual experiences of serious wrongdoing. By superimposing their own objectives on the messy realities of the individual case, they deal a double injustice: claiming the sole right to respond to the wrong; and then failing to consider the complexities of what those involved are owed. Instead of responding to real wrongs, institutions attempt to transform them into something tractable, and respond to that. Echoing the classic characterisation by Nils @christieConflictsProperty1977 of 'conflicts as property', @staufferEthicalLonelinessInjustice2015 [pp. 142-3] uses retributive punishment as an example:
@@ -69,7 +73,10 @@ Jill Stauffer's argument is that institutions often fail to listen well. Arguabl
 
 It has long been known that a long (and particularly, an indeterminate) sentence damages identity and relationships, ruptures lives, and imposes stigma. What is clearer after this PhD is that it does so while communicating incoherently. Through risk management practices, it increasingly manages *public wrongs*, rather than punishing the *private wrongs* which generated the sanction. As Jill Stauffer's account of 'thin' retribution suggests, this might suit the priorities of public bodies which direct and administer the sentence. But the overweening, hubristic ambition of risk management---to 'manage the custodial sentence' from end to end [@ministryofjusticeManageCustodialSentence2018]---is ill-supported by resourcing and expertise adequate to the task. Continuing sentence inflation further complicates matters by ensuring that there is less and less to work towards. Amid a scarcity of truly individual attention while they are in custody, these factors render it very difficult indeed for lifers to salvage a viable life following release.
 
-## References {.unnumbered}
+## References {.unnumbered .sectionbibliography}
+
+::: {.sectionrefs}
+:::
 
 [^7.1]: Stauffer, for example, suggests support, moral recognition, or compensation.
 

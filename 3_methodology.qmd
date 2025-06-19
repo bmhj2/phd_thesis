@@ -4,7 +4,12 @@ abstract: >
 identifier-prefix: '3.'
 keywords: [research methods, research ethics, reflexivity, life imprisonment]
 #thanks: [Insert acknowledgements footnote after document title]
-title: "Methods and ethics: researching life imprisonment in the shadow of murder"
+title: "Methods and ethics"
+subtitle: "Researching life imprisonment in the shadow of murder"
+filters:
+  # Run Quarto's default filters first
+  - quarto
+  - section-bibliographies
 ---
 
 [Chapter 2](./2_literature-review.qmd) argued that the empirical study of long-term imprisonment can be enriched by focusing on prisoners' first-person ethical lives, and developed a set of research questions for the PhD. This chapter elaborates the research choices flowing from those questions (see Chapter [-@sec-2-research-questions]). @sec-3-research-design describes the research design and methods selected, before @sec-3-sites elaborates on the choice of sites. @sec-3-methods-ethics describes the practicalities of carrying out the research. Finally, @sec-3-murder-after-murder summarises key points in the chapter and reflects on the nature of the knowledge produced by the PhD. I describe the shadow cast over the research by the London Bridge attack of 2019, during which I was present while a former prisoner stabbed five people, killing two, before being shot dead by the police.
@@ -420,7 +425,10 @@ On the first day of the inquest hearings, sections from a witness statement I ha
 
 I have since come to think of all this as the result of divergence, between the *private* wrongs caused by an offence, and the *public* wrongs the state sees fit to respond to. The contrast is explored most fully in [Chapter 7](./7_conclusions.qmd), but I believe it is the reason I found the Simms release so revealing and fruitful as a symbol of the wider tendency. But it was only over the long term that the effects of these events on my research became clear. One was a growing interest in sentencing theory. I developed a greater respect---not a liking---for retributive justifications for punishment, and came to feel very strongly about the *wrongs* of murder, given that at its worst, it involves the unacceptable act of setting out to kill another person. At the same time, I was still friends with some people who had committed this crime, and I felt more sharply about this fact; what 'moral repair' [@radzikMakingAmends2009], other than to manage future risks, could legitimately be expected of them? It all crystallised into a simple question: who *deserves* to be released, and how would we know? Finally, the incident focused my attention on how prisons *respond* to murders, as public or private wrongs. These questions are implicit in the empirical chapters which follow, but their implications are drawn out in [Chapter 7](./7_conclusions.qmd).
 
-## References {.unnumbered}
+## References {.unnumbered .sectionbibliography}
+
+::: {.sectionrefs}
+:::
 
 [^3.1]: Risk is the major topic of [Chapter 6](./6_risk-and-self-governance.qmd). I rejected, early in the research process, the idea of observing offending behaviour programmes (OBPs) or psychological interviews as a means of observing risk practice, reasoning that these interactions would be driven by institutional agendas, and hence undercut the kind of open, participant-led biographical exploration I wanted interviews to produce.
 

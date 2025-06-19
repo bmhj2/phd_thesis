@@ -12,7 +12,12 @@ keywords:
   - prison sociology
   - imported characteristics and adaptation to imprisonment
 thanks: Thanks are due to Marion Vannier for her comments on a draft of this chapter.
-title: "The life course and the life sentence: prison time and the ethical self"
+title: "The life course and the life sentence"
+subtitle: "Prison time and the ethical self"
+filters:
+  # Run Quarto's default filters first
+  - quarto
+  - section-bibliographies
 ---
 
 This chapter reports on how life imprisonment imposed at different points in the life course poses varying existential questions. It accounts for the differing forms of ethical selfhood which can appear as a result, developing and nuancing previous findings about the sentence's 'life-warping' [@creweLifeImprisonmentYoung2020, p. 324] effects.
@@ -639,7 +644,10 @@ Meanwhile, those who were convicted older found it harder to make the sentence m
 
 Both lines of inquiry—relating to the importation of biographical factors relevant to prison adaptation, and relating to the foreseeability of different futures after release from prison—offer fruitful avenues for future research on life imprisonment.
 
-## References {.unnumbered}
+## References {.unnumbered .sectionbibliography}
+
+::: {.sectionrefs}
+:::
 
 [^5.1]: Maximum age obfuscated to protect anonymity.
 

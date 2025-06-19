@@ -3,7 +3,12 @@ abstract: >
   This chapter asks what we can learn about the ethical lives of long-sentenced prisoners from existing research. First, it reviews evidence about the legal and sociological categories of murder and homicide. It describes how a morally variable—though invariably serious—offence receives a single penalty which flattens out its variability. Second, it asks how the penalty—a life sentence—has evolved since it became mandatory in the 1960s, seeking answers in the form (as distinct from the content) of the sanction. Third, it steps into the long-term prison as a setting for human life. Past and present research on long-term and life imprisonment are reviewed, drawing out how these sanctions might influence prisoners’ ethical lives, generally or in relation to a specific offence. These materials are then synthesised, bringing them into dialogue with the anthropology of ethics, which, I argue, can help us understand how the messages ‘spoken’ by imprisonment and those ‘heard’ by prisoners can be made sense of.
 identifier-prefix: '2.'
 keywords: [long-term imprisonment, life sentences, england & wales, moral anthropology, moral communication, indeterminate imprisonment, life imprisonment]
-title: "Ethical life and the long prison sentence: the existing research"
+title: "Ethical life and the long prison sentence"
+subtitle: "The existing research"
+filters:
+  # Run Quarto's default filters first
+  - quarto
+  - section-bibliographies
 ---
 
 [Chapter 1](./1_introduction.qmd) suggested that the moral communication prisons engage in with prisoners diverges from that which members of the public and survivors of serious crimes *expect*. The Simms case can be understood as an example of penal policy becoming detached from the moral values it purports to enforce. It raises an overarching question: how and why did this come about? This chapter seeks answers in existing literatures, guided by three further enquiry questions:
@@ -484,7 +489,10 @@ From this review of research literature on murder, LTI, and moral anthropology, 
 
 Methodological and ethical aspects of the research done to answer these questions are described in [Chapter 3](./3_methodology.qmd).
 
-## References {.unnumbered}
+## References {.unnumbered .sectionbibliography}
+
+::: {.sectionrefs}
+:::
 
 [^2.1]: Data from @officefornationalstatisticsHomicideEnglandWales2021 [table 30 and worksheet 5].
 

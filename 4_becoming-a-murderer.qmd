@@ -9,8 +9,13 @@ keywords:
   - moral reflection
   - england and wales
   - life imprisonment
-title: "Becoming 'a murderer': how does a murder conviction shape the ethical self?"
+title: "Becoming 'a murderer'"
+subtitle: "How does a murder conviction shape the ethical self?"
 thanks: Thanks are due to Netanel Dagan for comments on a draft of this article, and to Helen Johnston for perceptive questions when I presented an early draft of the findings here.
+filters:
+  # Run Quarto's default filters first
+  - quarto
+  - section-bibliographies
 ---
 
   > [M]urder is, like many 'social facts', not necessarily easily defined or understood […] Although virtually always a major crime […] most, if not all, societies appear to have a moral hierarchy of murder, both with reference to its victims and its perpetrators. [Even if] all killing is proscribed, particular forms are given harsher punishments than others.
@@ -729,7 +734,10 @@ What the life sentence demanded of participants, then, was that they become will
 
   > [W]hat is required in acknowledging the impact of our actions can be harder—even scarier—than prison. It is not more violent, not more demeaning, not more debilitating to one's future. It does not expose people to greater degradation or pain. But it does require […] the one thing prison almost never does: facing the people whose lives they've changed, as a full human being who is responsible for the pain of others […] Most often the experience of violence includes the responsible party being indifferent to, appearing indifferent to, or even taking pleasure in the pain they cause […] [But in situations of true accountability] the truth that is told […] is not the technical truth of what happened, but rather the moral truth---that the responsible party had no right to hurt the other person, that the harmed party was undeserving of that pain, and that the pain was the responsible party's choice and therefore their fault. And if it was their fault, it was not the harmed party's fault.
 
-## References {.unnumbered}
+## References {.unnumbered .sectionbibliography}
+
+::: {.sectionrefs}
+:::
 
 [^4.1]: Convicted by majority verdict after a retrial, he insisted that his child had died naturally. Sudden infant deaths are difficult to investigate, murder convictions often rest on complex and contested medical evidence, and some in the past have produced major miscarriages of justice [@foxPolicePracticeCases2019].
 
