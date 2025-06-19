@@ -2,14 +2,12 @@
 
 This repository contains the source code for my PhD thesis, available as a website published using the [Quarto publication system](https://quarto.org).
 
-You can view the published version of the thesis at [https://phd.benjarman.uk](https://benjarman.uk/phd_thesis). A PDF formatted according to university requirements and with full academic frontmatter is accessible via the [University of Cambridge repository](https://doi.org/10.17863/CAM.109063).
+You can read the thesis [on the web](https://benjarman.uk/phd_thesis) or as a PDF formatted according to university requirements via the [University of Cambridge repository](https://doi.org/10.17863/CAM.109063).
 
 Further information about my work can be found on my [website](https://benjarman.uk).
 
 ***
 
-<!-- Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
- -->
 This work is licensed under a
 [Creative Commons Attribution 4.0 International License][cc-by].
 
