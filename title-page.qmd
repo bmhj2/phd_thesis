@@ -3,9 +3,7 @@ number-sections: false
 keywords: ""
 ---
 
-On this website you'll find the text of my PhD thesis, presented as a website. A PDF version of record, formatted in line with academic requirements, is available from the [University of Cambridge repository](https://doi.org/10.17863/CAM.109063).
-
-I hope you find it interesting.
+These pages contain the text of my PhD thesis, formatted as a website. A PDF version of record, formatted in line with academic requirements, can be obtained from the [University of Cambridge repository](https://doi.org/10.17863/CAM.109063).
 
 <div style="text-align: right;">
   Ben Jarman</br>June 2025
