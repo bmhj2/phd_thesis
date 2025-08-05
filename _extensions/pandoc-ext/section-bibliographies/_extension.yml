@@ -1,7 +1,6 @@
-name: section-bibliographies
+title: section-bibliographies
 author: Albert Krewinkel
 version: 0.0.1
 contributes:
   filters:
     - section-bibliographies.lua
-source: pandoc-ext/section-bibliographies@v1.0.0

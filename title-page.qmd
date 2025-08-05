@@ -3,7 +3,9 @@ number-sections: false
 keywords: ""
 ---
 
-These pages contain the text of my PhD thesis, formatted as a website. A PDF version of record, formatted in line with academic requirements, can be obtained from the [University of Cambridge repository](https://doi.org/10.17863/CAM.109063).
+These pages contain my PhD thesis, formatted as a web book. The version of record---a PDF formatted as per university requirements---is available from the University of Cambridge [repository](https://doi.org/10.17863/CAM.109063).
+
+More information about my work is available on [my website](https://benjarman.uk).
 
 <div style="text-align: right;">
   Ben Jarman</br>June 2025
