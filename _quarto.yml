@@ -115,7 +115,7 @@ license: CC BY 4.0
 copyright:
   year: 2025
   holder: Ben Jarman
-link-citations: true
+link-citations: false
 lightbox: true
 lof: true
 lot: true
